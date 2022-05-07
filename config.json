@@ -1,0 +1,9 @@
+{
+	"ip":"play.spookcraft.ml",
+	"port": 64428,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 123afk1234",
+	"login-cmd":"/login 123afk1234"
+}
